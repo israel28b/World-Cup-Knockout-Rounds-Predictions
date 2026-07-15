@@ -56,3 +56,12 @@ pip install pandas numpy matplotlib scikit-learn
 5. Train a Ridge Regression model.
 6. Evaluate feature importance.
 7. Generate xG differential predictions for future matches.
+
+
+
+@dataset{fifa_world_cup_2026,
+  author = {MD Mominul Islam},
+  title = {FIFA World Cup 2026 Dataset- Live & Updated Stats},
+  year = {2026},
+  publisher = {Kaggle}
+}
